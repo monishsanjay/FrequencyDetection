@@ -1,0 +1,2 @@
+use median blur to get rid of sharp edges
+perfrom adaptive thresholding to find the region of interest
