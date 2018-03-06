@@ -1,0 +1,4 @@
+convert image to gray scale
+calculate the histogram of the entire image
+find the brightest pixel value and set threshold accordingly
+find the leds using contours and find the size of the contours (X,Y cordinate)
