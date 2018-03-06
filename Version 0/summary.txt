@@ -1,0 +1,3 @@
+Using histograms to find the maximum pixel value
+using that to set the threshold values to decide the values above which is considered to be the LED in On state
+Using threshold process to find region of interest
