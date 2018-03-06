@@ -1,0 +1,3 @@
+added functionality of contouring and finding area of largest contour to decide if led is on or if it is onl a rogue pixel
+changed functionality of counting transitions based on area rather than based on if the frame is empty or not
+added functionality of finding the values of the mximum pixel in each frame to decide threshold values and hence remove magic numbers

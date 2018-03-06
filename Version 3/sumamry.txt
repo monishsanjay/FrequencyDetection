@@ -1,0 +1,2 @@
+try converting images to HSV LAB YCrCb YUV formats
+perform thresholding using RGB values of LED in On state converted to the respective formats

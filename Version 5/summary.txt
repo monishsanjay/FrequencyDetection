@@ -1,0 +1,5 @@
+buikding on the previous version
+adding functionality to count the state transitions
+check if a frame is empty or not after thresholding
+find the frequency
+putting a mask for finding if the frame is empty or not

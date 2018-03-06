@@ -1,0 +1,3 @@
+used sum of areas of all contours instead of largest area
+created additional code to find threshold values using seperate videos of led in the on condition and the off condition
+this helps remove magic numbers and bgr, thresh, lower,upper, area values in second code can be set using the output of the first code
